@@ -1,0 +1,36 @@
+[
+    {
+        "day 1": [
+            {
+            "id": 1,
+            "exercise": "bubble",
+            "weight": 2.5,
+            "repeats": 4
+            },
+            {
+            "id": 1,
+            "exercise": "bubble",
+            "weight": 2.5,
+            "repeats": 4
+            }
+        ]
+    },
+    {
+        "day 2": [{
+                "id": 4,
+                "exercise": "bubble",
+                "weight": 2.5,
+                "repeats": 4
+            },
+            {
+                "id": 4,
+                "exercise": "bubble",
+                "weight": 2.5,
+                "repeats": 4
+            }
+        ]
+    }
+        
+    
+
+]
